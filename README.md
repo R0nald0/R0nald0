@@ -33,9 +33,7 @@ Here are some ideas to get you started:
    <a href="www.linkedin.com/in/ronaldo-anjos">
         <img height="250em" src="https://github.com/user-attachments/assets/940fa7c4-73c6-49fd-b541-cbdedd814a14" style="margin-right: 60px"> 
    </a>
-   <a href="www.linkedin.com/in/ronaldo-anjos">
-        <img height="250em" src="https://github.com/user-attachments/assets/3f9cd237-5a2f-48b5-99d4-36620b71f974" style="margin-right: 60px"> 
-   </a>
+
 </div>
  <br>
 <br>
