@@ -14,43 +14,55 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <br>
-<div align="center">
-  <a href="www.linkedin.com/in/ronaldo-anjos">
-  <img heigh=180em src="https://github-readme-stats.vercel.app/api?username=r0nald0&show_icons=true&theme=transparent">
-  <img heigh=200em src="https://github-readme-stats.vercel.app/api/top-langs/?username=r0nald0&layout=compact">
+<div align="center" style="display:inline">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=r0nald0&show_icons=true&theme=transparent">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=r0nald0&layout=compact">
 </div>
 
 <br>
-<p>Principais Projetos</p>
+<strong><p>Principais Projetos</p></strong>
 <hr>
+<span>Em Kotlin</span>
 <div  align="center" >
   <a href="https://github.com/R0nald0/SoundPlayer">
         <img height="250em" src="https://github.com/user-attachments/assets/3f9cd237-5a2f-48b5-99d4-36620b71f974"/>
    </a>   
-   <a href="www.linkedin.com/in/ronaldo-anjos" style=" padding: 20px">
+   <a href="https://github.com/R0nald0/Ifood_clone" style=" padding: 20px">
         <img height="250em" src="https://github.com/user-attachments/assets/2ce5ff9a-1c49-4206-bb2a-c4acab292b6f"> 
    </a>  
-   <a href="www.linkedin.com/in/ronaldo-anjos">
+   <a href="https://github.com/R0nald0/Analyze-credit-system-mobile">
         <img height="250em" src="https://github.com/user-attachments/assets/940fa7c4-73c6-49fd-b541-cbdedd814a14" style="margin-right: 60px"> 
    </a>
-
+</div>
+<span>Em Flutter/Dart</span>
+<hr>
+<div  align="center" >
+   <a href="https://github.com/R0nald0/todo_list_flutter">
+        <img height="250em" src="https://github.com/user-attachments/assets/8d34e47e-8503-482e-8d11-1e8b82c8aa3f"/>
+   </a>   
+   <a href="https://github.com/R0nald0/Ifood_clone">
+        <img height="250em" src="https://github.com/user-attachments/assets/b1f153f5-a7bf-4d29-ae43-77a782c0d1ca"> 
+   </a style="margin-left: 60px;">  
+   <a href="https://github.com/R0nald0/Analyze-credit-system-mobile">
+        <img height="250em" src="https://github.com/user-attachments/assets/940fa7c4-73c6-49fd-b541-cbdedd814a14" style="margin-left: 60px"> 
+   </a>
 </div>
  <br>
 <br>
 <p>Linguagens e Frameworks</p>
 <hr> 
 <div align="center">
-  <img height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original-wordmark.svg" />
+  <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original-wordmark.svg" />
   <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetpackcompose/jetpackcompose-original-wordmark.svg" />
   <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" />
-  <img height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original-wordmark.svg" />
+  <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original-wordmark.svg" />
   <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
   <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" />
   <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gradle/gradle-original-wordmark.svg" />
 </div>
  
 <br>
-<p >Redes Socias </p>
+<p style ="margin-left :30px" >Redes Socias</p>
 <hr>
   
 <div>
