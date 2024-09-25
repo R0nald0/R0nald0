@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <br>
-<div align="center" style="display:inline">
+<div align="center">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=r0nald0&show_icons=true&theme=transparent">
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=r0nald0&layout=compact">
 </div>
