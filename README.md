@@ -25,26 +25,26 @@ Here are some ideas to get you started:
 <span>Em Kotlin</span>
 <div  align="center" >
   <a href="https://github.com/R0nald0/SoundPlayer">
-        <img height="250em" src="https://github.com/user-attachments/assets/3f9cd237-5a2f-48b5-99d4-36620b71f974"/>
+        <img height="200em" src="https://github.com/user-attachments/assets/3f9cd237-5a2f-48b5-99d4-36620b71f974"/>
    </a>   
    <a href="https://github.com/R0nald0/Ifood_clone" style=" padding: 20px">
-        <img height="250em" src="https://github.com/user-attachments/assets/2ce5ff9a-1c49-4206-bb2a-c4acab292b6f"> 
+        <img height="200em" src="https://github.com/user-attachments/assets/2ce5ff9a-1c49-4206-bb2a-c4acab292b6f"> 
    </a>  
    <a href="https://github.com/R0nald0/Analyze-credit-system-mobile">
-        <img height="250em" src="https://github.com/user-attachments/assets/940fa7c4-73c6-49fd-b541-cbdedd814a14" style="margin-right: 60px"> 
+        <img height="200em" src="https://github.com/user-attachments/assets/940fa7c4-73c6-49fd-b541-cbdedd814a14" style="margin-right: 60px"> 
    </a>
 </div>
 <span>Em Flutter/Dart</span>
 <hr>
 <div  align="center" >
    <a href="https://github.com/R0nald0/todo_list_flutter">
-        <img height="250em" src="https://github.com/user-attachments/assets/8d34e47e-8503-482e-8d11-1e8b82c8aa3f"/>
+        <img height="200em" src="https://github.com/user-attachments/assets/8d34e47e-8503-482e-8d11-1e8b82c8aa3f"/>
    </a>   
-   <a href="https://github.com/R0nald0/Ifood_clone">
-        <img height="250em" src="https://github.com/user-attachments/assets/b1f153f5-a7bf-4d29-ae43-77a782c0d1ca"> 
+   <a href="https://github.com/R0nald0/contatos">
+        <img height="200em" src="https://github.com/user-attachments/assets/b1f153f5-a7bf-4d29-ae43-77a782c0d1ca"> 
    </a style="margin-left: 60px;">  
-   <a href="https://github.com/R0nald0/Analyze-credit-system-mobile">
-        <img height="250em" src="https://github.com/user-attachments/assets/940fa7c4-73c6-49fd-b541-cbdedd814a14" style="margin-left: 60px"> 
+   <a href="https://github.com/R0nald0/Movie-Thriller_app">
+        <img height="200em" src="https://github.com/user-attachments/assets/6fbfeaf8-a044-47ec-985e-090950fffa4b"> 
    </a>
 </div>
  <br>
