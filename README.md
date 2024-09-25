@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <br>
-<div align="center">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=r0nald0&show_icons=true&theme=transparent">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=r0nald0&layout=compact">
+<div >
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=r0nald0&show_icons=true&theme=transparent">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=r0nald0&layout=compact">
 </div>
 
 <br>
@@ -25,10 +25,10 @@ Here are some ideas to get you started:
 <span>Em Kotlin</span>
 <div  align="center" >
   <a href="https://github.com/R0nald0/SoundPlayer">
-        <img height="150em" src="https://github.com/user-attachments/assets/3f9cd237-5a2f-48b5-99d4-36620b71f974"/>
+        <img height="200em" src="https://github.com/user-attachments/assets/3f9cd237-5a2f-48b5-99d4-36620b71f974"/>
    </a>   
    <a href="https://github.com/R0nald0/Ifood_clone" style=" padding: 20px">
-        <img height="150em" src="https://github.com/user-attachments/assets/2ce5ff9a-1c49-4206-bb2a-c4acab292b6f"> 
+        <img height="200em" src="https://github.com/user-attachments/assets/2ce5ff9a-1c49-4206-bb2a-c4acab292b6f"> 
    </a>  
    <a href="https://github.com/R0nald0/Analyze-credit-system-mobile">
         <img height="200em" src="https://github.com/user-attachments/assets/940fa7c4-73c6-49fd-b541-cbdedd814a14" style="margin-right: 60px"> 
