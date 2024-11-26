@@ -27,7 +27,7 @@ Here are some ideas to get you started:
   <a href="https://github.com/R0nald0/SoundPlayer">
         <img height="200em" src="https://github.com/user-attachments/assets/3f9cd237-5a2f-48b5-99d4-36620b71f974"/>
    </a>   
-   <a href="https://github.com/R0nald0/Ifood_clone" style=" padding: 20px">
+   <a href="https://github.com/R0nald0/IfoodApp-clone" style=" padding: 20px">
         <img height="200em" src="https://github.com/user-attachments/assets/2ce5ff9a-1c49-4206-bb2a-c4acab292b6f"> 
    </a>  
    <a href="https://github.com/R0nald0/Analyze-credit-system-mobile">
