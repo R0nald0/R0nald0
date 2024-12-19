@@ -18,6 +18,7 @@ Here are some ideas to get you started:
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=r0nald0&show_icons=true&theme=transparent">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=r0nald0&layout=compact">
 </div>
+<br>
 
 <br>
 <strong><p>Principais Projetos</p></strong>
@@ -47,6 +48,10 @@ Here are some ideas to get you started:
 <div  align="center" >
    <a href="https://github.com/R0nald0/Uber_Clone">
      <img src="https://github.com/user-attachments/assets/1eb71fb7-f2c9-4d76-bf38-92a0878187b3"  height="200em">
+   </a> 
+
+   <a href="https://github.com/R0nald0/uber_clone_driver">
+     <img src="https://github.com/user-attachments/assets/65fda3c7-79fd-4f87-b9b9-54fbfcff0695"  height="200em">
    </a> 
    <a href="https://github.com/R0nald0/todo_list_flutter">
         <img height="200em" src="https://github.com/user-attachments/assets/8d34e47e-8503-482e-8d11-1e8b82c8aa3f"/>
