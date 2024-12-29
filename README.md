@@ -62,6 +62,9 @@ Here are some ideas to get you started:
    <a href="https://github.com/R0nald0/Movie-Thriller_app">
         <img height="200em" src="https://github.com/user-attachments/assets/6fbfeaf8-a044-47ec-985e-090950fffa4b"> 
    </a>
+     <a href="https://github.com/R0nald0/cuida_pet">
+        <img src="https://github.com/user-attachments/assets/aeba516a-1a00-40ca-b267-c6b2dbb5a89d" height="200em">
+   </a>
 </div>
  <br>
 <br>
