@@ -26,8 +26,14 @@ Here are some ideas to get you started:
 <span>Em Kotlin</span>
 
 <div  align="center" >
-     <a href="https://github.com/R0nald0/QuizApp">
-        <img height="200em" src="https://github.com/user-attachments/assets/f244a4fc-fe75-4000-ad17-58769412540d"/>
+    
+
+   <a href="https://github.com/R0nald0/QuizApp">
+        <img height="200em" src="https://github.com/user-attachments/assets/1042ff62-24fc-45bd-b63e-7aac8f93f3b1"/>
+     </a> 
+
+  <a href="https://github.com/R0nald0/QuizApp">
+     <img height="200em" src="https://github.com/user-attachments/assets/f244a4fc-fe75-4000-ad17-58769412540d"/>
    </a> 
     <a href="https://github.com/R0nald0/ReceitaApp">
         <img height="200em" src="https://github.com/user-attachments/assets/f1c96cc6-f4eb-4450-bac6-ce15b621d08f"/>
