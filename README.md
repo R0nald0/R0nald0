@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 <span>Em Kotlin</span>
 
 <div  align="center" >
-    
+
 
    <a href="https://github.com/R0nald0/QuizApp">
         <img height="200em" src="https://github.com/user-attachments/assets/1042ff62-24fc-45bd-b63e-7aac8f93f3b1"/>
@@ -52,10 +52,14 @@ Here are some ideas to get you started:
 <span>Em Flutter/Dart</span>
 <hr>
 <div  align="center" >
+     <a href="https://github.com/R0nald0/Taski">
+     <img src="https://github.com/user-attachments/assets/a384e7be-498b-478a-8e3f-45d73fcb2963"  height="200em">
+   </a> 
+  
    <a href="https://github.com/R0nald0/Uber_Clone">
      <img src="https://github.com/user-attachments/assets/1eb71fb7-f2c9-4d76-bf38-92a0878187b3"  height="200em">
    </a> 
-
+  
    <a href="https://github.com/R0nald0/uber_clone_driver">
      <img src="https://github.com/user-attachments/assets/65fda3c7-79fd-4f87-b9b9-54fbfcff0695"  height="200em">
    </a> 
