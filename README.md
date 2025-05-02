@@ -63,8 +63,8 @@ Here are some ideas to get you started:
    <a href="https://github.com/R0nald0/uber_clone_driver">
      <img src="https://github.com/user-attachments/assets/65fda3c7-79fd-4f87-b9b9-54fbfcff0695"  height="200em">
    </a> 
-   <a href="https://github.com/R0nald0/todo_list_flutter">
-        <img height="200em" src="https://github.com/user-attachments/assets/8d34e47e-8503-482e-8d11-1e8b82c8aa3f"/>
+   <a href="https://github.com/R0nald0/BlueSkyFeedVideosApp">
+       <img src="https://github.com/user-attachments/assets/cfec0dec-abc8-415e-80c0-6fbb7962c92e" height="200em">
    </a>   
    <a href="https://github.com/R0nald0/contatos">
         <img height="200em" src="https://github.com/user-attachments/assets/b1f153f5-a7bf-4d29-ae43-77a782c0d1ca"> 
@@ -74,7 +74,7 @@ Here are some ideas to get you started:
    </a>
      <a href="https://github.com/R0nald0/cuida_pet">
         <img src="https://github.com/user-attachments/assets/aeba516a-1a00-40ca-b267-c6b2dbb5a89d" height="200em">
-   </a>
+    </a>
 </div>
  <br>
 <br>
