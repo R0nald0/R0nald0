@@ -49,8 +49,9 @@ Here are some ideas to get you started:
         <img height="200em" src="https://github.com/user-attachments/assets/940fa7c4-73c6-49fd-b541-cbdedd814a14" style="margin-right: 60px"> 
    </a>
 </div>
-<span>Em Flutter/Dart</span>
 <hr>
+<span>Em Flutter/Dart</span>
+
 <div  align="center" >
      <a href="https://github.com/R0nald0/Taski">
      <img src="https://github.com/user-attachments/assets/a384e7be-498b-478a-8e3f-45d73fcb2963"  height="200em">
