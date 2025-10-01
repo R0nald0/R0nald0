@@ -27,7 +27,6 @@ Here are some ideas to get you started:
 
 <div  align="center" >
 
-
    <a href="https://github.com/R0nald0/QuizApp">
         <img height="200em" src="https://github.com/user-attachments/assets/1042ff62-24fc-45bd-b63e-7aac8f93f3b1"/>
      </a> 
@@ -48,11 +47,15 @@ Here are some ideas to get you started:
    <a href="https://github.com/R0nald0/Analyze-credit-system-mobile">
         <img height="200em" src="https://github.com/user-attachments/assets/940fa7c4-73c6-49fd-b541-cbdedd814a14" style="margin-right: 60px"> 
    </a>
+   
 </div>
 <hr>
 <span>Em Flutter/Dart</span>
-
+  >
 <div  align="center" >
+     <a href="https://github.com/R0nald0/chat-app/tree/main">
+       <img src="https://github.com/user-attachments/assets/f34acd3d-9e87-4df7-b2dd-c38a933bd9e9" height="200em">
+    </a
      <a href="https://github.com/R0nald0/Taski">
      <img src="https://github.com/user-attachments/assets/a384e7be-498b-478a-8e3f-45d73fcb2963"  height="200em">
    </a> 
