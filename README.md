@@ -20,7 +20,8 @@
 
 #### 📱 Em **Kotlin**
 <div align="center">
-   <a href="https://github.com/R0nald0/QuizApp"><img height="200em" src="https://github.com/user-attachments/assets/1042ff62-24fc-45bd-b63e-7aac8f93f3b1"/></a> 
+   <a href="https://github.com/R0nald0/QuizApp"> <img height="200em" src="https://github.com/user-attachments/assets/f244a4fc-fe75-4000-ad17-58769412540d"/> </a>
+   <a href="https://github.com/R0nald0/StickNote-"><img height="200em" src="https://github.com/user-attachments/assets/1042ff62-24fc-45bd-b63e-7aac8f93f3b1"/></a> 
    <a href="https://github.com/R0nald0/ReceitaApp"><img height="200em" src="https://github.com/user-attachments/assets/f1c96cc6-f4eb-4450-bac6-ce15b621d08f"/></a> 
    <a href="https://github.com/R0nald0/SoundPlayer"><img height="200em" src="https://github.com/user-attachments/assets/3f9cd237-5a2f-48b5-99d4-36620b71f974"/></a>   
    <a href="https://github.com/R0nald0/IfoodApp-clone"><img height="200em" src="https://github.com/user-attachments/assets/2ce5ff9a-1c49-4206-bb2a-c4acab292b6f"/></a>  
